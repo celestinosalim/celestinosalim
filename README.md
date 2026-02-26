@@ -1,6 +1,6 @@
 # Hi, I'm Celestino 👋
 
-**Senior Product & Growth Engineer**
+**Senior Software Engineer | AI Systems | Product Engineering**
 
 I build production AI and distributed systems where model quality, infrastructure cost, and business impact are engineered together.
 
